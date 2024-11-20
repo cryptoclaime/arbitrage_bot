@@ -1,0 +1,5 @@
+API Key: your_actual_api_key
+API Secret: your_actual_api_secret
+Successfully connected to Binance!
+Account Information:
+{...}
